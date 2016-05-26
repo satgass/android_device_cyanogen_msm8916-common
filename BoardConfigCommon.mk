@@ -13,11 +13,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-VENDOR_PATH := device/cyanogen/msm8916-common
+VENDOR_PATH := device/wingtech/msm8916-common
 
 TARGET_SPECIFIC_HEADER_PATH := $(VENDOR_PATH)/include
 
-TARGET_CYANOGEN_COMMON := msm8916
+TARGET_WINGTECH_COMMON := msm8916
 
 # Platform
 TARGET_BOARD_PLATFORM := msm8916
